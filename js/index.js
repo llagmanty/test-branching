@@ -1,1 +1,1 @@
-alert("hello from java");
+alert ("hello from java");
